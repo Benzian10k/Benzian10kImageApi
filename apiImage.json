@@ -6,14 +6,22 @@
 				"searchfolder": "/images/anime/gif/porn/boobs/",
 				"searchkey": "/img/gif/anime/boobs",
 				"totalimages": 1,
-				"type": "boobs"
+				"type": "boobs",
+				"last": {
+					"2d3d": "anime",
+					"catagory": "porn",
+				}
 			},
 			"jpg": {
 				"format": "jpg",
 				"searchfolder": "/images/anime/jpg/porn/boobs/",
 				"searchkey": "/img/jpg/anime/boobs",
 				"totalimages": 1,
-				"type": "boobs"
+				"type": "boobs",
+				"last": {
+					"2d3d": "anime",
+					"catagory": "porn",
+				}
 			}
 		}
 	},
@@ -24,14 +32,22 @@
 				"searchfolder": "/images/real/gif/porn/boobs/",
 				"searchkey": "/img/gif/real/boobs",
 				"totalimages": 1,
-				"type": "boobs"
+				"type": "boobs",
+				"last": {
+					"2d3d": "real",
+					"catagory": "porn",
+				}
 			},
 			"jpg": {
 				"format": "jpg",
 				"searchfolder": "/images/real/jpg/porn/boobs/",
 				"searchkey": "/img/jpg/real/boobs",
 				"totalimages": 1,
-				"type": "boobs"
+				"type": "boobs",
+				"last": {
+					"2d3d": "real",
+					"catagory": "porn",
+				}
 			}
 		}
 	}
