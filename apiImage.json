@@ -1,7 +1,8 @@
 {
 	"agboobs": {
 		"searchkey": "/img/gif/anime/boobs",
-		"totalimages": 2,
-		"folder": "images/animated/gif/"
+		"totalimages": 1,
+		"format": "gif",
+		"folder": "/images/anime/gif/"
 	}
 }
